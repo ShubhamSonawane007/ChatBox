@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "node index.js",
-    "build": "yarn add"
+    "start": "nodemon index.js",
+    "build": "npm i"
   },
   "dependencies": {
     "axios": "^1.6.7",
